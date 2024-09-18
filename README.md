@@ -25,7 +25,7 @@ Bu Python programı, e-posta hesaplarınızı kontrol eder ve  en son e-postanı
 1. **Depoyu Klonlayın**
 
     ```bash
-    git clone https://github.com/emi-ran/MailReceiver.git
+    git clone https://github.com/emi-ran/Outlook-Mail-Receiver.git
     ```
 
 2. **Proje Dizine Geçin**

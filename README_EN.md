@@ -25,7 +25,7 @@ This Python program checks your email accounts and prints the content of the lat
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/emi-ran/MailReceiver.git
+    git clone https://github.com/emi-ran/Outlook-Mail-Receiver.git
     ```
 
 2. **Navigate to the Project Directory**
